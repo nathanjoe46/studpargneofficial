@@ -19,7 +19,7 @@ Color 1: #0E624B */
   box-sizing: border-box;
   text-decoration: none;
   outline: none; border:none;
-  text-transform: capitalize;
+  text-transform: none;
   transition: all .2s linear;
 }
 
@@ -213,6 +213,7 @@ header .navbar a:hover{
   font-size: 1.7rem;
   padding:1rem 0;
   text-align: justify;
+  text-transform: none;
 }
 
 .about .row .content .buttons{
