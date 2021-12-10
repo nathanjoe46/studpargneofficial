@@ -212,6 +212,7 @@ header .navbar a:hover{
   color:#666;
   font-size: 1.7rem;
   padding:1rem 0;
+  text-align: justify;
 }
 
 .about .row .content .buttons{
